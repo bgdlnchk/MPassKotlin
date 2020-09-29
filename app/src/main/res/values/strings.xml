@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Password Manager</string>
+    <string name="Your_AdMob_ID">"ca-app-pub-2481550376243942~1145892768"</string>
+    <string name="Your_Ad_ID">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="chars">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="create_pin_password">Create PIN password</string>
+    <string name="enter_pin_password">Enter PIN password</string>
+    <string name="generate">Generate</string>
+    <string name="generate_new_password">Generate new random password</string>
+    <string name="pattern_lock">PIN</string>
+    <string name="change_application_pattern_lock">Change application PIN password</string>
+    <string name="add">Add</string>
+    <string name="add_your_custom_password">Add your custom password</string>
+    <string name="passwords">Passwords</string>
+    <string name="check_your_existing_passwords">Check your existing passwords</string>
+    <string name="enter_old_pin_password">Enter old PIN password</string>
+    <string name="enter_new_pin_password">Enter new PIN password</string>
+    <string name="password_name">Password name:</string>
+    <string name="your_password">Your password:</string>
+    <string name="name_example">Instagram</string>
+    <string name="password_example">1QR5Fk67k9</string>
+    <string name="copy">Copy</string>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.ChangePinActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"
+        android:text="@string/enter_old_pin_password"
+        android:textSize="20sp"
+        android:textColor="@color/black"/>
+
+    <com.goodiebag.pinview.Pinview
+        android:id="@+id/oldPinView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        app:cursorVisible="true"
+        app:hint="0"
+        app:inputType="number"
+        app:password="true"
+        app:pinHeight="60dp"
+        app:pinLength="4"
+        app:pinWidth="60dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/oldPinView"
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"
+        android:text="@string/enter_new_pin_password"
+        android:textSize="20sp"
+        android:textColor="@color/black"/>
+
+    <com.goodiebag.pinview.Pinview
+        android:id="@+id/newPinView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        app:cursorVisible="true"
+        app:inputType="number"
+        app:password="true"
+        app:pinWidth="60dp"
+        app:pinHeight="60dp"
+        app:pinLength="4"
+        app:hint="0" />
+
+</RelativeLayout>
