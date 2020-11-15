@@ -3,4 +3,4 @@
 
 <h2>Android Studio + Kotlin</h2>
 
-This application helps users to control all passwords easier and safer.&nbsp;All passwords will be saved in the SQLite database. PIN security has been realized by using SharedPreferences and PinView API.&nbsp;The&nbsp;app has been designed in the Google Material Design concept. Users can add one of two passwords types (random/custom). All of them will be added to passwords RecycleView.
+This application helps users to control all passwords easier and safer.&nbsp;All passwords will be saved in the SQLite database. PIN security has been realized by using SharedPreferences and PinView API.&nbsp;The&nbsp;app has been designed in the Google Material Design concept. Users can add one of two passwords types (random/custom). All of them will be added to passwords RecycleView. Design is based on Material Design.
