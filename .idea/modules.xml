@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MPass.iml" filepath="$PROJECT_DIR$/MPass.iml" group="MPass" />
+      <module fileurl="file://$PROJECT_DIR$/Passkeeper.iml" filepath="$PROJECT_DIR$/Passkeeper.iml" group="Passkeeper" />
+      <module fileurl="file://$PROJECT_DIR$/app/Passkeeper-app.iml" filepath="$PROJECT_DIR$/app/Passkeeper-app.iml" group="Passkeeper/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="MPass/app" />
     </modules>
   </component>
