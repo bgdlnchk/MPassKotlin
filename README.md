@@ -6,3 +6,4 @@
 This application helps users to control all passwords easier and safer.&nbsp;All passwords will be saved in the SQLite database. PIN security has been realized by using SharedPreferences and PinView API.&nbsp;The&nbsp;app has been designed in the Google Material Design concept. Users can add one of two passwords types (random/custom). All of them will be added to passwords RecycleView. Design is based on Material Design.
 
 Check the video preview here: https://www.youtube.com/watch?v=zvgRpNYbSYY&ab_channel=BogdanLonchuk
+You are welcome to commit!
