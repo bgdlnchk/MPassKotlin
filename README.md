@@ -16,7 +16,7 @@ This application helps users to control all passwords easier and safer.&nbsp;All
 <h2>Technologies</h2>
 
 - Android Studio;
-- Koltlin;
+- Kotlin;
 - SQLite;
 - RecycleView;
 - PinView;
